@@ -1,0 +1,18 @@
+export_paths:
+  - app/Widgets
+  - content
+  - config/statamic/api.php
+  - config/statamic/assets.php
+  - config/statamic/cp.php
+  - config/statamic/editions.php
+  - config/statamic/search.php
+  - config/session.php
+  - config/sitemapamic.php
+  - config/statamic-clear-assets.php
+  - resources
+  - public/assets
+  - package.json
+  - postcss.config.js
+  - tailwind.config.js
+  - vite.config.js
+  - README.md

@@ -1,0 +1,9 @@
+{
+    "name": "StephenThink/thinktemplatev7",
+    "extra": {
+        "statamic": {
+            "name": "Thinktemplatev7",
+            "description": "Thinktemplatev7 starter kit"
+        }
+    }
+}
